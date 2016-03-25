@@ -1,11 +1,9 @@
 Getting and Cleaning Data Course Project
 
-This rep represents my effort regarding getting and cleaning data course project offered online by Coursera. The sumbssion contains 
-contains three files codebook.md, run_anlaysis.R and readme.md.  Also included in this repo is a tidy dataset called accelerometer_data.csv.  
+This rep represents my effort regarding getting and cleaning data course project offered online by Coursera. The sumbssion contains three files called codebook.md, run_anlaysis.R, and readme.md.  Also included in this repo is a tidy dataset called tidy_data.txt.  
 
 The codebook.md file describes: 
-the variables contained in the dataset, 
-the data manipulation steps and methods employed in creading the tidy dataset.
+the variables contained in the dataset,the data manipulation steps and methods employed in creading the tidy dataset.
 
 The run_analysis.R contains the R script I wrote to perform the following tasks.
 1) loads the orignalal data sets into the R console
