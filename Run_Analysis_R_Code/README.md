@@ -11,7 +11,7 @@ The run_analysis.R contains the R script I wrote to perform the following tasks.
 3) formats and coerces selected data files for data manipulation
 4) subsets the combined orignal dataset with selected varialbs labelled mean and std.
 5) performs data aggregation to create mean values using activity and subject fields as group by variables
-6) finally creates and writes a tidy dataset called accelerometer_data.csv.
+6) finally creates and writes a tidy dataset called tidy_data.txt.
 
  
 
